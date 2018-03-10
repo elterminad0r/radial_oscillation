@@ -1,5 +1,5 @@
 # radial\_oscillation
-A processing project on the graphing of polar functions of r in theta and time
+A processing project on the graphing of polar functions for r in theta and time
 by using successively more oscillating points on straight lines, inspired by
 [this](https://www.reddit.com/r/oddlysatisfying/comments/82nbra/every_line_is_straight/)
 post.
