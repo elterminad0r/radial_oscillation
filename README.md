@@ -13,3 +13,5 @@ set up to draw. Here are some screenshots of it as it progresses:
 ![screenshot](https://github.com/elterminad0r/radial_oscillation/blob/master/screenshots/moreradial.png)
 ![screenshot](https://github.com/elterminad0r/radial_oscillation/blob/master/screenshots/evenmoreradial.png)
 ![screenshot](https://github.com/elterminad0r/radial_oscillation/blob/master/screenshots/radial_fin.png)
+
+A video of it can be found [here](https://youtu.be/H8MlbKC8moY).
