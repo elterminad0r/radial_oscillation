@@ -1,5 +1,3 @@
-# vim: ft=python
-
 PHI = 0.5 * (1 + sqrt(5))
 
 POINT_SIZE = 20
